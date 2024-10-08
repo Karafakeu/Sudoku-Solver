@@ -1,4 +1,7 @@
 # Sudoku-Solver
+This is a program that is all about Sudoku, mainly about solving sudoku. It uses a MRV algorithm in order to solve a board, somehow given to it (described below). 
+
+Features that will be done in the future: Random board creation; taking user's board into the program; taking user's input for solving the board; maybe eventually a visualizer for the solver.
 
 ## Main functionality
 The main functionality is to solve sudoku boards somehow presented to it. This solver can be found in the file solver.py, and is based on MRV algorithmic behaviour. This is further described in the Algorithms section. The board can either be presented from the player, as described in User input, or by the random generation of the computer itself, as described in Random field. 
